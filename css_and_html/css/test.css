@@ -137,11 +137,10 @@ table {
 }
 
 div {
-    margin: 20px auto;
-    width: 600px;
+    margin: 20px 10px;
     padding: 30px;
-    display: block;
     height: 30px;
+    width: 30%;
     box-sizing: border-box;
 }
 
@@ -149,4 +148,21 @@ div {
     border-width: 1px;
     border-style: solid;
     border-color: black;
+}
+
+
+/*
+.make_block {
+    margin: 20px 10px;
+    padding: 30px;
+    height: 30px;
+    width: 400px;
+    box-sizing: border-box;
+}
+*/
+
+.one {
+    position: absolute;
+    left: 20px;
+    top: 550px;
 }
